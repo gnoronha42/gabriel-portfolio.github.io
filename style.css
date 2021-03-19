@@ -47,7 +47,8 @@
     
       .item img {
         width: 300px;
-        border-radius:50% ;
+        height: 350px;
+        border-radius:50%;
       }
     
       @keyframes scaleIn {
