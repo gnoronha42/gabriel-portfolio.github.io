@@ -3,14 +3,16 @@
 
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(pink, purple);
+    background-image: linear-gradient(rgb(245, 175, 230), rgb(169, 117, 236));
     
     
     }
    
     .sobremim{
         text-align: center;
-        background-color: violet;
+        background-color: rgb(250, 234, 146);
+        font-family: 'Josefin Sans', sans-serif;
+        
     }
 
     .logoimg img{
@@ -64,5 +66,5 @@
     height: 50px;
    }
    .bars{
-       background-color: violet;
+       background-color: rgb(110, 183, 224);
    }
